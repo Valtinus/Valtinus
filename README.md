@@ -2,11 +2,13 @@
 
 ## I'm a Student looking for my first job!
 
+- 📚 I'm studying software engineering at Budapest University of Technology and Economics
+- 💻 Alongside my studies on university I'm learing React developement on a Hungarian and also on an English course
 - 🔭 I'm currently looking for a job!
 - 🌱 I'd like to learn, and grow as much as possible
 - 👯 I’d love to work in a team and learn form the others
 - 🥅 2022 Goals: Improve my current skills and learn new ones
-- ⚡ Fun facts about me: I love playing basketball, on the weekends I like going out fishing
+- ⚡ Fun facts about me: I love playing basketball, on the weekends I like to go fishing
 
 ### Connect with me:
 
