@@ -4,14 +4,14 @@
 
 - 🔭 I'm currently looking for a job!
 - 🌱 I'd like to learn, and grow as much as possible
-- 👯 I’d work in a team and learn form the others
+- 👯 I’d love work in a team and learn form the others
 - 🥅 2022 Goals: Improve my current skills and learn new ones
 - ⚡ Fun facts about me: I love playing basketball, on the weekends I like going out for fishing
 
 ### Connect with me:
 
 
-[<img align="left" alt="Bálint Bank | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Bálint Bank | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] or bankbalint@gmail.com
 
 
 <br />
@@ -30,7 +30,7 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Material-UI" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fv4.mui.com%2F&psig=AOvVaw3aUQP2u3kuSufcuiVeASnf&ust=1643369659411000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNjr3Jfr0fUCFQAAAAAdAAAAABAD"/>
+<img align="left" alt="Material-UI" width="26px" src="https://v4.mui.com/static/logo.png"/>
 
 
 
