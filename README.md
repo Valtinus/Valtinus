@@ -4,14 +4,14 @@
 
 - 🔭 I'm currently looking for a job!
 - 🌱 I'd like to learn, and grow as much as possible
-- 👯 I’d love work in a team and learn form the others
+- 👯 I’d love to work in a team and learn form the others
 - 🥅 2022 Goals: Improve my current skills and learn new ones
-- ⚡ Fun facts about me: I love playing basketball, on the weekends I like going out for fishing
+- ⚡ Fun facts about me: I love playing basketball, on the weekends I like going out fishing
 
 ### Connect with me:
 
 
-[<img align="left" alt="Bálint Bank | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] or bankbalint@gmail.com
+[<img align="left" alt="Bálint Bank | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] or  bankbalint@gmail.com
 
 
 <br />
