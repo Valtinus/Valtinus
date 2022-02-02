@@ -6,7 +6,7 @@
 - 💻 Alongside my studies at the university I'm learing React developement on a Hungarian and also on an English course
 - 🔭 I'm currently looking for a job!
 - 🌱 I'd like to learn, and grow as much as possible
-- 👯 I’d love to work in a team and learn form the others
+- 👯 I’d love to work in a team and learn from the others
 - 🥅 2022 Goals: Improve my current skills and learn new ones
 - ⚡ Fun facts about me: I love playing basketball, on the weekends I like to go fishing
 
